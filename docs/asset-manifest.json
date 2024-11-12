@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/PWA-Portfolio/static/css/main.dcd508c6.css",
-    "main.js": "/PWA-Portfolio/static/js/main.1081228f.js",
-    "static/js/453.1a3bdd79.chunk.js": "/PWA-Portfolio/static/js/453.1a3bdd79.chunk.js",
-    "service-worker.js": "/PWA-Portfolio/service-worker.js",
-    "index.html": "/PWA-Portfolio/index.html",
-    "main.dcd508c6.css.map": "/PWA-Portfolio/static/css/main.dcd508c6.css.map",
-    "main.1081228f.js.map": "/PWA-Portfolio/static/js/main.1081228f.js.map",
-    "453.1a3bdd79.chunk.js.map": "/PWA-Portfolio/static/js/453.1a3bdd79.chunk.js.map"
+    "main.css": "/pwa-portfolio/static/css/main.dcd508c6.css",
+    "main.js": "/pwa-portfolio/static/js/main.07d08419.js",
+    "static/js/453.1a3bdd79.chunk.js": "/pwa-portfolio/static/js/453.1a3bdd79.chunk.js",
+    "service-worker.js": "/pwa-portfolio/service-worker.js",
+    "index.html": "/pwa-portfolio/index.html",
+    "main.dcd508c6.css.map": "/pwa-portfolio/static/css/main.dcd508c6.css.map",
+    "main.07d08419.js.map": "/pwa-portfolio/static/js/main.07d08419.js.map",
+    "453.1a3bdd79.chunk.js.map": "/pwa-portfolio/static/js/453.1a3bdd79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dcd508c6.css",
-    "static/js/main.1081228f.js"
+    "static/js/main.07d08419.js"
   ]
 }
