@@ -43,6 +43,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "proxy": "http://tomasmercado-001-site9.jtempurl.com",
   "eslintConfig": {
     "extends": [
       "react-app",
