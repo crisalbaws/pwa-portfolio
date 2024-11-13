@@ -1,6 +1,6 @@
 export const environment = {
     production: true,
-    APIREST: 'http://tomasmercado-001-site9.jtempurl.com/api/',
-    APIPASS:"http://tomasmercado-001-site9.jtempurl.com/api/",
+    APIREST: 'https://portfolio-backend-ten-pearl.vercel.app/api/',
+    APIPASS:"https://portfolio-backend-ten-pearl.vercel.app/api/",
     VersionSystem: "1.0.0",
 }
