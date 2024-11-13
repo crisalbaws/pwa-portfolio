@@ -133,7 +133,7 @@ export const Login: React.FC = () => {
     return (
         <Container className={classes.container}>
             <Paper className={classes.paper}>
-                <img src="/PWA-Portfolio/logo192.png" alt="Logo" className={classes.logo} />
+                <img src="https://portfolio-caaws-public.s3.us-east-1.amazonaws.com/images/porfolio/logo192.png" alt="Logo" className={classes.logo} />
                 <Typography variant="h5" className={classes.title}>
                     PWA Portafolio
                 </Typography>
